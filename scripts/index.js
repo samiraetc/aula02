@@ -52,9 +52,9 @@
 
 
 const nome = 'Samira'
-const sobrenome = 'Costa'
+const sobrenome = 'Menezes'
 const anoAtual = 2024
-const idade = 22
+const idade = 26
 
 
 console.log(nome + ' ' + sobrenome)
@@ -62,7 +62,8 @@ console.log(`${nome} ${sobrenome}`)
 
 
 
-let valor1 = parseInt(prompt('Digite um numero: '))
+console.log('Modifiquei esse arquivo')
+let valor1 = parseInt(prompt('Digite um valor: '))
 
 console.log(valor1)
 
